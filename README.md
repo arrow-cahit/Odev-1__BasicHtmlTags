@@ -25,30 +25,17 @@ Web sitesinin ana sayfasıdır.
 
 ### hakkimda.html
 
-Site sahibi hakkında bilgilerin bulunduğu sayfadır.
+Site sahibi ile ilgili bilgilerin bulunduğu sayfadır.
 
 ### yazilar/yazi-1.html
 
 Yazılar klasörü içinde bulunan örnek bir yazı sayfasıdır.
 
-## Kullanılan Teknolojiler
-
-* HTML5
-* Temel web sayfası yapısı
-
-## Projeyi Çalıştırma
-
-Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-
-1. Projeyi bilgisayarınıza klonlayın.
-2. Proje klasörünü açın.
-3. `index.html` dosyasını bir web tarayıcısı ile açın.
-
 ## Amaç
 
 Bu projenin amacı:
 
-* HTML sayfa yapısını öğrenmek
+* BAsit HTML sayfa yapısını öğrenmek
 * Çok sayfalı basit bir web sitesi oluşturmak
 * Git ve GitHub kullanarak versiyon kontrolü pratiği yapmaktır.
 
