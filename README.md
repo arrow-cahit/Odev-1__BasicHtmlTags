@@ -17,6 +17,9 @@ dev-2-arrow-cahit/
 ├── hakkimda.html
 └── yazilar/
     └── yazi-1.html
+    └── yazi-2.html
+    └── yazi-3.html
+    
 ```
 
 ### index.html
